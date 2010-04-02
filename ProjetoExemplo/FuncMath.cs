@@ -1,12 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace ProjetoExemplo
 {
     public class FuncMath
     {
+        #region Public Methods
+
         public static int Divide(int a, int b)
         {
             if (b == 0) throw new DivideByZeroException();
@@ -28,5 +27,7 @@ namespace ProjetoExemplo
         {
             return a + b;
         }
+
+        #endregion Public Methods
     }
 }

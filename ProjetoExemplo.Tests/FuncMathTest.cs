@@ -1,5 +1,4 @@
-﻿using ProjetoExemplo;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
 namespace ProjetoExemplo.Tests
@@ -7,6 +6,8 @@ namespace ProjetoExemplo.Tests
     [TestClass()]
     public class FuncMathTest
     {
+        #region Public Methods
+
         [TestMethod()]
         [ExpectedException(typeof(DivideByZeroException))]
         public void DivideTest()
@@ -38,5 +39,7 @@ namespace ProjetoExemplo.Tests
             Assert.AreEqual(0, FuncMath.Soma(-1.1, 1.1));
             Assert.AreEqual(-2.2, FuncMath.Soma(-1.1, -1.1));
         }
+
+        #endregion Public Methods
     }
 }
