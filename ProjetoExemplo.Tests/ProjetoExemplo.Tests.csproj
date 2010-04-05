@@ -49,7 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ProjetoExemplo\ProjetoExemplo.csproj">
-      <Project>{C124C5F3-10BE-4A7B-A731-59EF284A2EC7}</Project>
+      <Project>{c124c5f3-10be-4a7b-a731-59ef284a2ec7}</Project>
       <Name>ProjetoExemplo</Name>
     </ProjectReference>
   </ItemGroup>
