@@ -1,0 +1,1 @@
+![alt text](https://bitbucket.org/samuel-oldra/exemplo-teste-unitario/raw/b5c3663388c377a90b67980be8ef20202e4a2cbb/README_IMGS/1.png)
