@@ -1,1 +1,2 @@
-![alt text](https://bitbucket.org/samuel-oldra/exemplo-teste-unitario/raw/34b4c2863df1d94b4a395a68919dd211c94c898a/README_IMGS/1.png)
+# Execução
+![alt text](https://raw.githubusercontent.com/samuel-oldra/Teste-Unitario/main/README_IMGS/1.png)
